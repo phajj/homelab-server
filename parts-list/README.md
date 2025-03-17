@@ -1,6 +1,6 @@
 | Component       | Model / Specs                            | Purchase Link | Price Paid  |
 |-----------------|------------------------------------------|---------------|-------------|
-| **CPU**         | Intel i5-13500T                          | [eBay](https://www.ebay.com/sch/i.html?_id=335854983254&_nkw=Intel+i5-13500T+SRMBQ+1.60GHz+14-Core+Socket+LGA+1700+Processor) | $129.95 |
+| **CPU**         | Intel Core i5-13500T                          | [eBay](https://www.ebay.com/sch/i.html?_id=335854983254&_nkw=Intel+i5-13500T+SRMBQ+1.60GHz+14-Core+Socket+LGA+1700+Processor) | $129.95 |
 | **Motherboard** | CWWK Q670 ITX                            | [eBay](https://www.ebay.com/itm/356005779601?var=625053552544) | $229.99 |
 | **RAM**         | Corsair Vengeance 64GB DDR5 5200MHz      | [Best Buy](https://www.bestbuy.com/site/corsair-vengeance-64gb-2x32gb-ddr5-5200mhz-c40-udimm-desktop-memory-black/6496083.p?sb_share_source=PDP&skuId=6496083) | Had on hand ($156.00) |
 | **Storage**     | TBD                                      | [Server Part Deals](https://serverpartdeals.com/collections/manufacturer-recertified-drives?sort=price-ascending&pf_t_interface_type=interface%3ASATA) | TBD |
