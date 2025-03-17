@@ -4,11 +4,11 @@
 | **Motherboard** | CWWK Q670 ITX                            | [eBay](https://www.ebay.com/itm/356005779601?var=625053552544) | $229.99 |
 | **RAM**         | Corsair Vengeance 64GB DDR5 5200MHz      | [Best Buy](https://www.bestbuy.com/site/corsair-vengeance-64gb-2x32gb-ddr5-5200mhz-c40-udimm-desktop-memory-black/6496083.p?sb_share_source=PDP&skuId=6496083) | $156.00 |
 | **Storage**     | TBD                                      | [Server Part Deals](https://serverpartdeals.com/collections/manufacturer-recertified-drives?sort=price-ascending&pf_t_interface_type=interface%3ASATA) | TBD |
-| **Case**        | MASS - Stackable NAS ITX Enclosure       | [Printables](https://www.printables.com/model/714333-modular-4-12-bay-nas-itx-case-modcase-mass) | $28.00 |
+| **Case**        | MASS - Stackable NAS ITX Enclosure (Premium)       | [Printables](https://www.printables.com/model/714333-modular-4-12-bay-nas-itx-case-modcase-mass) | $28.00 (or free version with less features) |
 | **PSU**         | Redragon PSU015 750W                     | [Amazon](https://www.amazon.com/dp/B0C7KCC3DK) | $140.00 |
 | **Cooler**      | Thermalright Assassin X 120 R SE         | [Amazon](https://www.amazon.com/dp/B0C65VG5BT) | $20.00 |
 | **Fans**        | 1x Thermalright TL-C14C-S 140mm, 1x AsiaHorse 140mm     | [Amazon](https://www.amazon.com/dp/B0DGGKQFM6) / [Amazon](http://amazon.com/dp/B09DCKV4Y3) | Had on hand (Free) |
 | **Screws**      | M3 x 20mm Hex Socket Head (40 needed)  | [Amazon](https://www.amazon.com/dp/B0DJQHC7K9) | $8.99 |
-| **Filament**    | Overture PLA Pro 1.75mm (for 3D printing case) | [Amazon](https://www.amazon.com/dp/B0DC681QLV) | $21.99 |
+| **Filament**    | White Comgrow PETG 1.75mm (for 3D printing case) | [Amazon](https://www.amazon.com/dp/B0DC681QLV) | $21.99 |
 
 ## 💰 Total Cost: **$735.92 + Storage Cost**
