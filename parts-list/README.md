@@ -10,5 +10,6 @@
 | **Fans**        | 1x Thermalright TL-C14C-S 140mm, 1x AsiaHorse 140mm     | [Amazon](https://www.amazon.com/dp/B0DGGKQFM6) / [Amazon](http://amazon.com/dp/B09DCKV4Y3) | Had on hand (Free) |
 | **Screws**      | M3 x 20mm Hex Socket Head (40 needed)  | [Amazon](https://www.amazon.com/dp/B0DJQHC7K9) | $8.99 |
 | **Filament**    | White Comgrow PETG 1.75mm (for 3D printing case) | [Amazon](https://www.amazon.com/dp/B0DC681QLV) | $21.99 |
+| **Sata Cables**    | SATA-III Cable-0.5M 6Pcs, 1.6FT | [Amazon](https://www.amazon.com/dp/B09Q359C7Z) | $13.68 |
 
-## 💰 Total Cost: **$1,218.92 + Storage Cost**
+## 💰 Total Cost: **$1,232.60**
