@@ -1,5 +1,6 @@
 # homelab-server
 Documenting my homelab server build, including parts, guides, and videos.
+
 Plans to:
 - Run ProxMox for system virtualization (virtual machines and containers for the following operations)
 - Experiment with both TrueNas Scale and Unraid for Network-Attached-Storage backups
