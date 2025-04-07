@@ -15,4 +15,4 @@
 
 | Drives Used           | RAID Level | Capacity (usable) | TrueNAS Option             | Unraid Option                     | Notes                                                                 |
 |-----------------------|------------|--------------------|-----------------------------|-----------------------------------|-----------------------------------------------------------------------|
-| 4 x HDDs (Identical)  | RAID 10    | 2x drive capacity  | ZFS Mirror vdevs (RAID10)  | Main array with dual parity (optional) | Balanced speed + redundancy; great for mixed read/write workloads     |
+| 4 x HDDs (Identical)  | RAID 10    | 2x drive capacity  | ZFS Mirror vdevs (RAID10)  | Main array with dual parity | Balanced speed + redundancy; great for mixed read/write workloads     |
